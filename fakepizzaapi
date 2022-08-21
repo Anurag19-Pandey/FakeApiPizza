@@ -2,7 +2,6 @@
 		"name": "Cheese and Corn Pizza",
 		"main": [{
 				"size": "Regular",
-				"price": 198,
 				"serves": 1,
 				"crust": [{
 						"crusttype": "New Hand Tossed",
@@ -20,7 +19,6 @@
 			},
 			{
 				"size": "Medium",
-				"price": 298,
 				"serves": 2,
 				"crust": [{
 						"crusttype": "New Hand Tossed",
@@ -38,7 +36,6 @@
 			},
 			{
 				"size": "Large",
-				"price": 398,
 				"serves": 4,
 				"crust": [{
 						"crusttype": "New Hand Tossed",
