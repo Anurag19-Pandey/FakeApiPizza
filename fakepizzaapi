@@ -1,0 +1,67 @@
+[{
+		"name": "Cheese and Corn Pizza",
+		"main": [{
+				"size": "Regular",
+				"price": 198,
+				"serves": 1,
+				"crust": [{
+						"crusttype": "New Hand Tossed",
+						"price": 198
+					},
+					{
+						"crusttype": "Fresh Pan Pizza",
+						"price": 248
+					},
+					{
+						"crusttype": "100% Wheat Thin Crust",
+						"price": 348
+					}
+				]
+			},
+			{
+				"size": "Medium",
+				"price": 298,
+				"serves": 2,
+				"crust": [{
+						"crusttype": "New Hand Tossed",
+						"price": 248
+					},
+					{
+						"crusttype": "Fresh Pan Pizza",
+						"price": 348
+					},
+					{
+						"crusttype": "100% Wheat Thin Crust",
+						"price": 448
+					}
+				]
+			},
+			{
+				"size": "Large",
+				"price": 398,
+				"serves": 4,
+				"crust": [{
+						"crusttype": "New Hand Tossed",
+						"price": 348
+					},
+					{
+						"crusttype": "Fresh Pan Pizza",
+						"price": 448
+					},
+					{
+						"crusttype": "100% Wheat Thin Crust",
+						"price": 548
+					}
+				]
+
+			}
+
+		],
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv2TxkPMccxSAM81hoG-wt-lVLwL0sm94Y67kEcmmHwJBdDMBMB49gUZar_m0aGgy7mg&usqp=CAU",
+		"toppings": ["corn"],
+		"newFlag": true,
+		"description": "A crazy fusion like never before. A delicious fusion of corn and cheesy pizza.",
+		"category": "Vegetarian"
+	}
+
+]
