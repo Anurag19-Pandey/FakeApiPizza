@@ -1,0 +1,69 @@
+{
+
+	"category": [{
+			"name": "BESTSELLERS",
+			"url": "/bestsellers"
+		},
+		{
+			"name": "EVERYDAY VALUE",
+			"url": "/everydayvalue"
+		},
+		{
+			"name": "NEW LAUNCHES",
+			"url": "/newlaunches"
+		},
+		{
+			"name": "PARATHA PIZZA",
+			"url": "/parathapizza"
+		},
+		{
+			"name": "VEG PIZZA",
+			"url": "/vegpizza"
+		},
+		{
+			"name": "BEVERAGES",
+			"url": "/beverages"
+		},
+		{
+			"name": "NON-VEG PIZZA",
+			"url": "/nonvegpizza"
+		},
+		{
+			"name": "CHICKEN LOVERS PIZZA",
+			"url": "/chikenloverspizza"
+		},
+		{
+			"name": "SPECIALITY CHICKEN",
+			"url": "/specialitychicken"
+		},
+		{
+			"name": "SIDES",
+			"url": "/sides"
+		},
+		{
+			"name": "PIZZA MANIA",
+			"url": "/pizzamania"
+		},
+		{
+			"name": "MEAL FOR 1",
+			"url": "/mealfor1"
+		},
+		{
+			"name": "MEAL FOR 2",
+			"url": "/mealfor2"
+		},
+		{
+			"name": "MEAL FOR 4",
+			"url": "/mealfor4"
+		},
+		{
+			"name": "PARTY COMBOS",
+			"url": "/partycombos"
+		},
+		{
+			"name": "DESSERT",
+			"url": "/desert"
+		}
+	]
+
+}
